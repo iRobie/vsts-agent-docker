@@ -6,6 +6,7 @@ RUN apt-get update \
     build-essential \
     curl \
     dnsutils \
+    file \
     ftp \
     iproute2 \
     iputils-ping \
